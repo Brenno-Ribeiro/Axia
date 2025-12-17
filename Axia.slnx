@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Axia.Application/Axia.Application.csproj" />
+  <Project Path="Axia.Domain/Axia.Domain.csproj" />
+  <Project Path="Axia.Infrastructure/Axia.Infrastructure.csproj" />
+  <Project Path="Axia.WebApi/Axia.WebApi.csproj" Id="f1c2c444-9a3d-4507-b947-9f1b0b0b2ca6" />
+</Solution>
